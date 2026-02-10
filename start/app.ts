@@ -43,5 +43,5 @@ console.log(Boolean('Hello')); //true
 
 // 0, '', null, undifined - falsey values
 
-let isGreater = 10 < 15; // compare operation = boolean value
-console.log(isGreater);
+// let isGreater = 10 < 15; // compare operation = boolean value
+// console.log(isGreater);
